@@ -2,9 +2,9 @@
 # Hi there, 👋 I'm Nadeen Amro
 
 ## 👩‍💻 About Me
-- 🔭 **Front-End Web Developer** based in Egypt.
-- 🌱 I’m currently focused on mastering **React** and creating responsive designs.
-- ⚡ I love turning complex problems into simple, beautiful, and intuitive designs.
+-  **Front-End Web Developer** based in Egypt.
+- I’m currently focused on mastering **React** and creating responsive designs.
+-  I love turning complex problems into simple, beautiful, and intuitive designs.
   
 ### 🛠 Skills & Tools
 <p align="left">
